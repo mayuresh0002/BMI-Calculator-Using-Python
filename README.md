@@ -1,4 +1,4 @@
-#BMI-Calculator-Using-Python
+# BMI-Calculator-Using-Python
 
 Concise READMEThis is a simple Python program that calculates your Body Mass Index (BMI) using your height (in cm) and weight (in kg), and then determines your weight status based on standard health categories. 
 UsageRun the script:Bashpython bmi_calculator.py
